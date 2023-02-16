@@ -27,5 +27,4 @@ urlpatterns = [
     path('services/', views.services, name='myservices'),
     path('contact/', views.contact, name='mycontact'),
 
-
 ]
